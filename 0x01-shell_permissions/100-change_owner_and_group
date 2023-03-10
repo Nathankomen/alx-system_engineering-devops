@@ -1,2 +1,2 @@
 #!/bin/bash
-chow vincent:staff *
+chow -r vincent:staff *
